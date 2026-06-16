@@ -26,3 +26,12 @@ A continuación encontrarás mis últimos artículos de divulgación, cada uno a
 * [Canal de YouTube (Divulgación y Ciencia Abierta)](https://www.youtube.com/@drcarlostoroarcila)
 * [Google Scholar (Publicaciones Científicas)](https://scholar.google.com/citations?user=mCXSMH8AAAAJ&hl=es)
 * [Perfil ORCID](https://orcid.org/0009-0005-5850-0555)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HD8EZRESGW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-HD8EZRESGW');
+</script>
