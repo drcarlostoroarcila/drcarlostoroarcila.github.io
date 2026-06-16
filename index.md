@@ -5,7 +5,7 @@ layout: default
 # Laboratorio Digital | Dr. Carlos A. Toro-Arcila
 Soy Profesor-Investigador en la Facultad de Ingeniería (Unidad Sureste) de la Universidad Autónoma de Coahuila (UAdeC). 
 
-En este espacio comparto recursos académicos, material didáctico y artículos de divulgación sobre robótica, control automático, visión artificial y la navegación autónoma de drones.
+En este espacio comparto recursos académicos, material didáctico y artículos de divulgación sobre robótica, control automático, visión por computadora y navegación autónoma de drones.
 
 ---
 
