@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Drones con instinto de supervivencia: cómo la robótica de bajo costo está aprendiendo a ver sin GPS"
-date: 2026-07-01 09:00:00 -0600
+date: 2026-06-15 09:00:00 -0600
 categories: [Robótica, Divulgación]
-published: false
+published: true
 ---
 
 <div style="text-align: justify;" markdown="1">
@@ -88,6 +88,8 @@ Esta entrada de blog está basada en la investigación original revisada por par
 
 La investigación experimental original se desarrolló con apoyo del entonces CONACYT (Beca 943100). El presente material es una iniciativa independiente de divulgación del autor, quien actualmente es profesor-investigador en la Universidad Autónoma de Coahuila (UAdeC).
 
+</div>
+
 
 <br><hr><br>
 
@@ -118,5 +120,3 @@ La investigación experimental original se desarrolló con apoyo del entonces CO
   gtag('js', new Date());
   gtag('config', 'G-HD8EZRESGW');
 </script>
-
-</div>
