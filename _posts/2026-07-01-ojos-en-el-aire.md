@@ -1,17 +1,14 @@
 ---
-layout: page
+layout: default
 title: "Drones con instinto de supervivencia: cómo la robótica de bajo costo está aprendiendo a ver sin GPS"
-published: false
+published: true
 ---
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/eo8WHMkEv20?si=E72O-OoP2nn9gCHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: justify;" markdown="1">
 
-<iframe width="100%" height="450"
-src="https://www.youtube.com/embed/eo8WHMkEv20"
-title="YouTube video player"
-frameborder="0"
-allowfullscreen>
-</iframe>
+> 🎥 **¿QUIERES VER CÓMO FUNCIONA?** [**HAZ CLIC AQUÍ PARA VER EL VIDEO ANIMADO EN YOUTUBE**](https://youtu.be/eo8WHMkEv20)
+
+<br>
 
 Imagine un escenario devastador: un sismo de gran magnitud ha sacudido la ciudad y un edificio antiguo presenta daños estructurales graves. Enviar a un equipo de rescatistas al interior para inspeccionar grietas y muros es una sentencia de riesgo incalculable.
 
@@ -37,7 +34,7 @@ El dron hace exactamente lo mismo: reconoce rasgos visuales y ajusta su trayecto
 
 <br>
 
-> 🎧 **¿PREFIERES ESCUCHAR ESTA HISTORIA?** [**DALE PLAY A NUESTRO PODCAST AQUÍ**](https://youtu.be/5IyC9q6n5Q0?si=FJgLBElnh1HzwY1Y)
+> 🎧 **¿PREFIERES ESCUCHAR ESTA HISTORIA?** [**DALE PLAY A NUESTRO EPISODIO DE PODCAST AQUÍ**](https://youtu.be/5IyC9q6n5Q0?si=U_KIVWrjutJAuEzm)
 
 <br>
 
@@ -51,7 +48,11 @@ Para evitar que el procesador se sature ante la impredecibilidad del mundo real,
 
 Este enfoque es mucho más eficiente que el procesamiento de datos puro, permitiendo que el robot "sobreviva" a entornos complejos con una fracción de la potencia computacional tradicional.
 
-![Infografía Resumen](https://drcarlostoroarcila.github.io/recursos/ojos-en-el-aire/infografia_vertical.png)
+<br>
+
+> 📊 **RESUMEN VISUAL:** [**HAZ CLIC AQUÍ PARA ABRIR LA INFOGRAFÍA COMPLETA**](https://drcarlostoroarcila.github.io/recursos/ojos-en-el-aire/infografia_vertical.png)
+
+<br>
 
 ### Del laboratorio al mundo real: El baile entre columnas
 
@@ -81,4 +82,8 @@ La transición de drones que dependen de satélites a robots que "entienden" vis
 ---
 
 **🔬 Acerca de esta investigación:**
-Esta entrada de blog está basada en la investigación original revisada por pares y publicada en la revista científica internacional *Control Engineering Practice* ([Haz clic aquí para leer el artículo JCR completo](https://doi.org/10.1016/j.conengprac.2023.105493)). Un artículo extendido de divulgación científica se encuentra actualmente en revisión por el comité editorial de la revista *CienciaCierta* de la UAdeC. Esta labor de divulgación es parte del esfuerzo por el Acceso Universal al Conocimiento, con el apoyo del SECIHTI (antes CONACYT) y la Universidad Autónoma de Coahuila.
+Esta entrada de blog está basada en la investigación original revisada por pares y publicada en la revista científica internacional *Control Engineering Practice* ([Haz clic aquí para leer el artículo JCR completo](https://doi.org/10.1016/j.conengprac.2023.105493)). Un artículo adaptado de divulgación científica se encuentra actualmente en revisión por el comité editorial de la revista *CienciaCierta*. 
+
+La investigación experimental original se desarrolló con apoyo del entonces CONACYT (Beca 943100). El presente material es una iniciativa independiente de divulgación del autor, quien actualmente es profesor-investigador en la Universidad Autónoma de Coahuila (UAdeC).
+
+</div>
