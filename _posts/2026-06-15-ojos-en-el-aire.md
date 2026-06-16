@@ -22,7 +22,7 @@ En ese momento crítico, los drones parecen la solución ideal, pero al cruzar e
 
 Históricamente, resolver este problema ha requerido equipar a las máquinas con sensores láser LiDAR y procesadores de alto rendimiento, lo que incrementa drásticamente el peso y el costo del equipo. Ante este panorama, surge una pregunta que desafía el statu quo de la industria: ¿Es posible que un dron navegue en el caos de un edificio colapsado usando solo una cámara barata y matemáticas inteligentes?
 
-### Algoritmos: El nuevo "acero" de la robótica accesible
+### Algoritmos: el nuevo "acero" de la robótica accesible
 
 La robótica avanzada suele asociarse con presupuestos de ciencia ficción, pero la investigación liderada por expertos en México está demostrando que es posible "hacer más con menos".
 
@@ -30,7 +30,7 @@ Al utilizar drones comerciales estándar, como el Parrot Bebop 2 —equipado ún
 
 Al eliminar la necesidad de un superordenador a bordo o sensores militares costosos, se abre la puerta para que instituciones de protección civil en países en vías de desarrollo tengan acceso a herramientas de inspección autónoma de alto nivel. El avance en algoritmos matemáticos puede suplir la necesidad de hardware costoso, transformando un equipo comercial en una herramienta capaz de proteger vidas humanas.
 
-### Reflejos contra mapas: La rebelión del visual servoing
+### Reflejos contra mapas: la rebelión del visual servoing
 
 La robótica clásica es, a menudo, ineficiente por exceso de precaución: intenta que las máquinas escaneen su entorno para crear mapas tridimensionales perfectos, un proceso que devora energía y tiempo. Sin embargo, este desarrollo propone un cambio de paradigma: el "control visual" (visual servoing).
 
@@ -44,7 +44,7 @@ El dron hace exactamente lo mismo: reconoce rasgos visuales y ajusta su trayecto
 
 <br>
 
-### Supervivencia programada: Las tres leyes del instinto robótico
+### Supervivencia programada: las tres leyes del instinto robótico
 
 Para evitar que el procesador se sature ante la impredecibilidad del mundo real, se ha implementado un esquema de control jerárquico. Este sistema prioriza las tareas siguiendo una lógica biológica de supervivencia, donde lo más importante es mantener la integridad del equipo:
 
@@ -60,19 +60,19 @@ Este enfoque es mucho más eficiente que el procesamiento de datos puro, permiti
 
 <br>
 
-### Del laboratorio al mundo real: El baile entre columnas
+### Del laboratorio al mundo real: el baile entre columnas
 
 La validez de estas ecuaciones se puso a prueba en un entorno de "fuego real" con obstáculos físicos. Durante los experimentos, se colocaron columnas invasoras en la trayectoria de un Parrot Bebop 2.
 
 Los resultados confirmaron la agilidad del sistema: al detectar una columna en su camino, el dron redujo suavemente su velocidad frontal y aumentó su velocidad lateral para deslizarse con agilidad por un costado, rodeando el obstáculo sin detenerse. Un aspecto clave para lograr este vuelo fluido fue el uso de retroalimentación anticipada (feed-forward). Cuando el camino está despejado, este componente permite que el dron se desplace con mayor rapidez y naturalidad, optimizando el tiempo de llegada al destino sin sacrificar la seguridad de la misión.
 
-### Tecnología con rostro humano: Rescate y Protección Civil en México
+### Tecnología con rostro humano: rescate y protección civil en México
 
 Este avance no es solo un logro académico; es una respuesta directa a problemas nacionales de seguridad e inspección. En un país como México, donde los presupuestos para emergencias suelen ser limitados, la capacidad de explorar edificios siniestrados o naves industriales utilizando drones comprados en tiendas de electrónica tiene un valor incalculable.
 
 Permite que las brigadas de Protección Civil locales, que a menudo carecen de equipos de grado militar, cuenten con aliados autónomos para misiones de alto riesgo. La apropiación social de este conocimiento es el fin último de la innovación: convertir la tecnología de punta en una herramienta de seguridad pública accesible para todos. "La investigación científica cobra su verdadero valor cuando demuestra tener la capacidad de mejorar nuestra sociedad".
 
-### Conclusión y Reflexión Final
+### Conclusión y reflexión final
 
 La transición de drones que dependen de satélites a robots que "entienden" visualmente su entorno marca un hito en la robótica accesible. Hemos pasado de máquinas que requieren mapas perfectos a sistemas que operan con instinto y reflejos, demostrando que la inteligencia matemática es, a menudo, más poderosa que el hardware más caro.
 
@@ -80,7 +80,7 @@ La transición de drones que dependen de satélites a robots que "entienden" vis
 
 ---
 
-## 📚 Recursos Académicos Descargables
+## 📚 Recursos académicos descargables
 * 📥 [Descargar Presentación de Diapositivas (PDF)](https://drcarlostoroarcila.github.io/recursos/ojos-en-el-aire/presentacion.pdf)
 * 🗺️ [Descargar Mapa Mental de Estudio (PNG)](https://drcarlostoroarcila.github.io/recursos/ojos-en-el-aire/mapa_mental.png)
 * 📊 [Descargar Infografía Panorámica (PNG)](https://drcarlostoroarcila.github.io/recursos/ojos-en-el-aire/infografia_horizontal.png)
