@@ -4,6 +4,14 @@ title: "Drones con instinto de supervivencia: cómo la robótica de bajo costo e
 published: true
 ---
 
+---
+layout: post
+title: "Drones con instinto de supervivencia: cómo la robótica de bajo costo está aprendiendo a ver sin GPS"
+date: 2026-06-16 09:00:00 -0600
+categories: [Robótica, Divulgación]
+published: true
+---
+
 <div style="text-align: justify;" markdown="1">
 
 > 🎥 **¿QUIERES VER CÓMO FUNCIONA?** [**HAZ CLIC AQUÍ PARA VER EL VIDEO ANIMADO EN YOUTUBE**](https://youtu.be/eo8WHMkEv20)
