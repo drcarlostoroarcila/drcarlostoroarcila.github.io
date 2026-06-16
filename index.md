@@ -9,7 +9,7 @@ En este espacio comparto recursos académicos, material didáctico y artículos 
 
 ---
 
-## 📚 Publicaciones y Artículos Recientes
+## 📚 Publicaciones y artículos recientes
 
 A continuación encontrarás mis últimos artículos de divulgación, cada uno acompañado de videos explicativos, podcasts, infografías y material didáctico descargable:
 
@@ -24,5 +24,5 @@ A continuación encontrarás mis últimos artículos de divulgación, cada uno a
 ---
 **Enlaces Oficiales:**
 * [Canal de YouTube (Divulgación y Ciencia Abierta)](https://www.youtube.com/@drcarlostoroarcila)
-* [Google Scholar (Publicaciones Científicas)](#)
-* [Perfil ORCID](#)
+* [Google Scholar (Publicaciones Científicas)](https://scholar.google.com/citations?user=mCXSMH8AAAAJ&hl=es)
+* [Perfil ORCID](https://orcid.org/0009-0005-5850-0555)
