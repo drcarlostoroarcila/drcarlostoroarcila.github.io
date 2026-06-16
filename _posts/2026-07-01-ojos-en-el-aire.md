@@ -6,6 +6,17 @@ published: false
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/eo8WHMkEv20?si=E72O-OoP2nn9gCHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<div style="text-align:center;">
+  <iframe
+    width="100%"
+    height="450"
+    src="https://www.youtube.com/embed/eo8WHMkEv20"
+    title="YouTube video player"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
 Imagine un escenario devastador: un sismo de gran magnitud ha sacudido la ciudad y un edificio antiguo presenta daños estructurales graves. Enviar a un equipo de rescatistas al interior para inspeccionar grietas y muros es una sentencia de riesgo incalculable.
 
 En ese momento crítico, los drones parecen la solución ideal, pero al cruzar el umbral de la puerta, se enfrentan a un "muro tecnológico" invisible: la pérdida de la señal GPS. Sin conexión satelital, los drones convencionales pierden su sentido de ubicación global y se vuelven "ciegos" para la navegación autónoma.
