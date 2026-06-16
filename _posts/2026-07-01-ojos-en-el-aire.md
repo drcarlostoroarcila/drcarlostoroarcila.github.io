@@ -1,21 +1,17 @@
 ---
-layout: default
+layout: page
 title: "Drones con instinto de supervivencia: cómo la robótica de bajo costo está aprendiendo a ver sin GPS"
 published: false
 ---
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/eo8WHMkEv20?si=E72O-OoP2nn9gCHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div style="text-align:center;">
-  <iframe
-    width="100%"
-    height="450"
-    src="https://www.youtube.com/embed/eo8WHMkEv20"
-    title="YouTube video player"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe width="100%" height="450"
+src="https://www.youtube.com/embed/eo8WHMkEv20"
+title="YouTube video player"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
 Imagine un escenario devastador: un sismo de gran magnitud ha sacudido la ciudad y un edificio antiguo presenta daños estructurales graves. Enviar a un equipo de rescatistas al interior para inspeccionar grietas y muros es una sentencia de riesgo incalculable.
 
