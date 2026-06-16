@@ -88,4 +88,35 @@ Esta entrada de blog está basada en la investigación original revisada por par
 
 La investigación experimental original se desarrolló con apoyo del entonces CONACYT (Beca 943100). El presente material es una iniciativa independiente de divulgación del autor, quien actualmente es profesor-investigador en la Universidad Autónoma de Coahuila (UAdeC).
 
+
+<br><hr><br>
+
+### 💬 Déjame tu opinión o dudas sobre esta investigación:
+<!-- Giscus Comments -->
+<script src="https://giscus.app/client.js"
+        data-repo="drcarlostoroarcila/drcarlostoroarcila.github.io"
+        data-repo-id="R_kgDOS7uaRg"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOS7uaRs4C_Rkp"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="es"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HD8EZRESGW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-HD8EZRESGW');
+</script>
+
 </div>
