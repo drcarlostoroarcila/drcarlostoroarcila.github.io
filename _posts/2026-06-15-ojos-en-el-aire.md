@@ -6,6 +6,10 @@ categories: [Robótica, Divulgación]
 published: true
 ---
 
+[⬅️ Volver a la página principal](https://drcarlostoroarcila.github.io/)
+
+<br>
+
 <div style="text-align: justify;" markdown="1">
 
 > 🎥 **¿QUIERES VER CÓMO FUNCIONA?** [**HAZ CLIC AQUÍ PARA VER EL VIDEO ANIMADO EN YOUTUBE**](https://youtu.be/eo8WHMkEv20)
@@ -91,6 +95,10 @@ La investigación experimental original se desarrolló con apoyo del entonces CO
 </div>
 
 ---
+
+[⬅️ Volver a la página principal](https://drcarlostoroarcila.github.io/)
+
+<br><hr><br>
 
 ### 💬 Déjame tu opinión o dudas sobre esta investigación:
 
