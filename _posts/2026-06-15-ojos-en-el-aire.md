@@ -98,7 +98,7 @@ La investigación experimental original se desarrolló con apoyo del entonces CO
 
 [⬅️ Volver a la página principal](https://drcarlostoroarcila.github.io/)
 
-<br><hr><br>
+---
 
 ### 💬 Déjame tu opinión o dudas sobre esta investigación:
 
