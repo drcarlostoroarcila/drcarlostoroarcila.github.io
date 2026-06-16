@@ -90,11 +90,12 @@ La investigación experimental original se desarrolló con apoyo del entonces CO
 
 </div>
 
-
-<br><hr><br>
+---
 
 ### 💬 Déjame tu opinión o dudas sobre esta investigación:
-<!-- Giscus Comments -->
+
+<div>
+
 <script src="https://giscus.app/client.js"
         data-repo="drcarlostoroarcila/drcarlostoroarcila.github.io"
         data-repo-id="R_kgDOS7uaRg"
@@ -112,7 +113,6 @@ La investigación experimental original se desarrolló con apoyo del entonces CO
         async>
 </script>
 
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HD8EZRESGW"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -120,3 +120,5 @@ La investigación experimental original se desarrolló con apoyo del entonces CO
   gtag('js', new Date());
   gtag('config', 'G-HD8EZRESGW');
 </script>
+
+</div>
