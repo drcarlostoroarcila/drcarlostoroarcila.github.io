@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Drones con instinto de supervivencia: cómo la robótica de bajo costo está aprendiendo a ver sin GPS"
+title: "Drones con instinto de supervivencia"
 date: 2026-07-02 10:55:00 -0600
-categories: [Robótica, Divulgación]
 published: true
 ---
 
