@@ -22,6 +22,14 @@ A continuación encontrarás mis últimos artículos de divulgación, cada uno a
 </ul>
 
 ---
+
+## 📰 Presencia en Medios y Prensa
+Como parte del esfuerzo de Apropiación Social del Conocimiento, nuestra investigación ha sido destacada en medios de comunicación impresos y digitales:
+
+* **[10/07/2026] El Diario de Coahuila:** *"Divulgación UAdeC – Tecnología al vuelo: la ciencia detrás de los drones. Ojos digitales: cuando las máquinas aprenden a ver"*. 
+  👉 [Leer artículo completo en línea](https://eldiariodecoahuila.com.mx/2026/07/10/divulgacion-uadec-tecnologia-al-vuelo-la-ciencia-detras-de-los-drones-ojos-digitales-cuando-las-maquinas-aprenden-a-ver/)
+
+---
 **Enlaces Oficiales:**
 * [Canal de YouTube (Divulgación y Ciencia Abierta)](https://www.youtube.com/@drcarlostoroarcila)
 * [Google Scholar (Publicaciones Científicas)](https://scholar.google.com/citations?user=mCXSMH8AAAAJ&hl=es)
