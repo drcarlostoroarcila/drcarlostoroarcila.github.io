@@ -26,6 +26,9 @@ A continuación encontrarás mis últimos artículos de divulgación, cada uno a
 ## 📰 Presencia en Medios y Prensa
 Como parte del esfuerzo de Apropiación Social del Conocimiento, nuestra investigación ha sido destacada en medios de comunicación impresos y digitales:
 
+* **[17/07/2026] El Diario de Coahuila:** *"Divulgación UAdeC – Tecnología al vuelo: la ciencia detrás de los drones. El difícil arte de quedarse quieto"*. 
+  👉 [Leer artículo en línea](https://eldiariodecoahuila.com.mx/2026/07/17/divulgacion-uadec-tecnologia-al-vuelo-la-ciencia-detras-de-los-drones-el-dificil-arte-de-quedarse-quieto/)
+
 * **[10/07/2026] El Diario de Coahuila:** *"Divulgación UAdeC – Tecnología al vuelo: la ciencia detrás de los drones. Ojos digitales: cuando las máquinas aprenden a ver"*. 
   👉 [Leer artículo completo en línea](https://eldiariodecoahuila.com.mx/2026/07/10/divulgacion-uadec-tecnologia-al-vuelo-la-ciencia-detras-de-los-drones-ojos-digitales-cuando-las-maquinas-aprenden-a-ver/)
 
