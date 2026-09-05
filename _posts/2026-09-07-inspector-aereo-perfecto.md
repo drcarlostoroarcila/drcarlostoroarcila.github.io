@@ -14,7 +14,7 @@ published: true
 
 <div style="text-align: justify;" markdown="1">
 
-> 🎥 **¿QUIERES VER CÓMO FUNCIONA?** [**HAZ CLIC AQUÍ PARA VER EL VIDEO ANIMADO EN YOUTUBE**]([PEGUE_AQUI_EL_ENLACE_DEL_VIDEO_YOUTUBE])
+> 🎥 **¿QUIERES VER CÓMO FUNCIONA?** [**HAZ CLIC AQUÍ PARA VER EL VIDEO ANIMADO EN YOUTUBE**]([https://youtu.be/qtkrXUUehIw?si=FQwzaR5IKxSf4elQ])
 
 <br>
 
@@ -22,7 +22,7 @@ published: true
 
 Imagine que sostiene un plato completamente plano e intenta mantener una canica inmóvil en el centro mientras camina. Un suspiro, un tropiezo o una corriente de aire harán que la canica ruede sin control. Esta analogía describe con precisión el "vuelo estacionario", un reto físico y matemático monumental para los drones que aspiran a ser Inspectores Aéreos. En la Industria 4.0, estos robots deben ser capaces de acercarse a una tubería para detectar microfisuras o escanear códigos de barras en estantes elevados con precisión milimétrica.
 
-El problema central es que, al entrar en una fábrica, almacén o túnel, el GPS —el "ojo global" del dron— desaparece. La aeronave queda entonces a merced de su Unidad de Medición Inercial (IMU), un sensor que acumula errores cada segundo. Como bien señala Carlos A. Toro-Arcila, investigador de la **Universidad Autónoma de Coahuila (UAdeC)**, en este estado el dron básicamente *"se marea y pierde la noción de dónde está parado"*, generando una deriva que puede ser catastrófica en entornos cerrados.
+El problema central es que, al entrar en una fábrica, almacén o túnel, el GPS —el "ojo global" del dron— desaparece. La aeronave queda entonces a merced de su Unidad de Medición Inercial (IMU), un sensor que acumula errores cada segundo. Como bien señala el Dr. Carlos Alberto Toro Arcila, investigador de la **Universidad Autónoma de Coahuila (UAdeC)**, en este estado el dron básicamente *"se marea y pierde la noción de dónde está parado"*, generando una deriva que puede ser catastrófica en entornos cerrados.
 
 ### 2. Rompiendo la brecha: Software inteligente frente a sensores de lujo
 
@@ -34,7 +34,7 @@ La propuesta de la UAdeC rompe este paradigma. En lugar de añadir "músculo" (h
 
 <br>
 
-> 🎧 **¿PREFIERES ESCUCHAR ESTA HISTORIA?** [**DALE PLAY A NUESTRO EPISODIO DE PODCAST AQUÍ**]([PEGUE_AQUI_EL_ENLACE_DEL_PODCAST_YOUTUBE])
+> 🎧 **¿PREFIERES ESCUCHAR ESTA HISTORIA?** [**DALE PLAY A NUESTRO EPISODIO DE PODCAST AQUÍ**]([https://youtu.be/I5woSPfXLoc?si=c00fQpq3vWa3S-eV])
 
 <br>
 
@@ -42,8 +42,8 @@ La propuesta de la UAdeC rompe este paradigma. En lugar de añadir "músculo" (h
 
 La estrategia ganadora es el Control Visual Basado en Imagen (IBVS), una técnica de "Divide y Vencerás" que no requiere de Inteligencia Artificial pesada ni procesadores masivos. El sistema utiliza la cámara frontal económica del dron para anclarse al espacio mediante dos mecánicas ingeniosas:
 
-* **Movimiento Lateral y Vertical:** El algoritmo identifica puntos de interés (texturas en la pared) y calcula su "centroide" o centro de gravedad visual. Si el dron se desplaza, el centroide se mueve en la imagen y el sistema ordena una corrección inmediata.
-* **La Ilusión de Escala (Profundidad):** Para medir la distancia sin radares, el software mide la distancia en pixeles entre dos puntos específicos. Si el dron se acerca a la pared, los pixeles se separan (el objeto "crece"); si se aleja, los puntos se juntan. Esta simple matemática permite al dron "percibir" la profundidad con una cámara estándar de resolución básica.
+* **Movimiento lateral y vertical:** El algoritmo identifica puntos de interés (texturas en la pared) y calcula su "centroide" o centro de gravedad visual. Si el dron se desplaza, el centroide se mueve en la imagen y el sistema ordena una corrección inmediata.
+* **La ilusión de escala (profundidad):** Para medir la distancia sin radares, el software mide la distancia en pixeles entre dos puntos específicos. Si el dron se acerca a la pared, los pixeles se separan (el objeto "crece"); si se aleja, los puntos se juntan. Esta simple matemática permite al dron "percibir" la profundidad con una cámara estándar de resolución básica.
 
 ### 4. El "Freno Cognitivo": El algoritmo como director de orquesta
 
