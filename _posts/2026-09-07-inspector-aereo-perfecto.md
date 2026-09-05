@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "El Cerebro Matemático que está Democratizando la Inspección Aérea"
-date: 2026-09-07 10:00:00 -0600
+date: 2026-09-04 10:00:00 -0600
 published: false
 ---
 
