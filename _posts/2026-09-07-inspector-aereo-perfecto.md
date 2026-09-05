@@ -5,8 +5,8 @@ date: 2026-09-04 10:00:00 -0600
 published: true
 ---
 
-# El "Cerebro Matemático" que está Democratizando la Inspección Aérea: Más allá del GPS y el Hardware de Lujo
-**Dr. Carlos A. Toro-Arcila | Publicado el 5 de septiembre de 2026**
+# El "Cerebro matemático" que está democratizando la inspección aérea: más allá del GPS y el hardware de lujo
+**Dr. Carlos A. Toro-Arcila | Publicado el 7 de septiembre de 2026**
 
 [⬅️ Volver a la página principal](https://drcarlostoroarcila.github.io/)
 
@@ -14,7 +14,7 @@ published: true
 
 <div style="text-align: justify;" markdown="1">
 
-> 🎥 **¿QUIERES VER CÓMO FUNCIONA?** [**HAZ CLIC AQUÍ PARA VER EL VIDEO ANIMADO EN YOUTUBE**]([https://youtu.be/qtkrXUUehIw?si=FQwzaR5IKxSf4elQ])
+> 🎥 **¿QUIERES VER CÓMO FUNCIONA?** [**HAZ CLIC AQUÍ PARA VER EL VIDEO ANIMADO EN YOUTUBE**](https://youtu.be/qtkrXUUehIw?si=FQwzaR5IKxSf4elQ)
 
 <br>
 
@@ -34,7 +34,7 @@ La propuesta de la UAdeC rompe este paradigma. En lugar de añadir "músculo" (h
 
 <br>
 
-> 🎧 **¿PREFIERES ESCUCHAR ESTA HISTORIA?** [**DALE PLAY A NUESTRO EPISODIO DE PODCAST AQUÍ**]([https://youtu.be/I5woSPfXLoc?si=c00fQpq3vWa3S-eV])
+> 🎧 **¿PREFIERES ESCUCHAR ESTA HISTORIA?** [**DALE PLAY A NUESTRO EPISODIO DE PODCAST AQUÍ**](https://youtu.be/I5woSPfXLoc?si=c00fQpq3vWa3S-eV)
 
 <br>
 
