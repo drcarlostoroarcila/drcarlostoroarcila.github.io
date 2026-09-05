@@ -2,7 +2,7 @@
 layout: default
 title: "El Cerebro Matemático que está Democratizando la Inspección Aérea"
 date: 2026-09-04 10:00:00 -0600
-published: false
+published: true
 ---
 
 # El "Cerebro Matemático" que está Democratizando la Inspección Aérea: Más allá del GPS y el Hardware de Lujo
