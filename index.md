@@ -26,6 +26,9 @@ A continuación encontrarás mis últimos artículos de divulgación, cada uno a
 ## 📰 Presencia en Medios y Prensa
 Como parte del esfuerzo de Apropiación Social del Conocimiento, nuestra investigación ha sido destacada en medios de comunicación impresos y digitales:
 
+* **[21/09/2026] El Heraldo de Saltillo (Sección Punto de Ciencia):** *"El «inspector aéreo» perfecto: Ingenio mexicano enseña a los drones a ver dentro de las fábricas"*. 
+  👉 [Leer artículo en línea](https://elheraldodesaltillo.mx/2026/09/21/punto-de-ciencia-76/)
+
 * **[07/08/2026] El Diario de Coahuila:** *"Drones aliados: volar para cuidarnos"*. 
   👉 [Leer artículo en línea](https://eldiariodecoahuila.com.mx/2026/08/07/drones-aliados-volar-para-cuidarnos/)
 
