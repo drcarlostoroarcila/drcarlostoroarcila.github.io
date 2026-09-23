@@ -26,6 +26,9 @@ A continuación encontrarás mis últimos artículos de divulgación, cada uno a
 ## 📰 Presencia en Medios y Prensa
 Como parte del esfuerzo de Apropiación Social del Conocimiento, nuestra investigación ha sido destacada en medios de comunicación impresos y digitales:
 
+* **[22/09/2026] El Heraldo de Saltillo:** *"Crean en UA de C software estabilizador de drones para aumentar su precisión" (Entrevista Exclusiva al Dr. Toro-Arcila)*. 
+  👉 [Leer entrevista en línea](https://elheraldodesaltillo.mx/2026/09/22/crean-en-ua-de-c-software-estabilizador-de-drones-para-aumentar-su-precision/)
+
 * **[21/09/2026] El Heraldo de Saltillo (Sección Punto de Ciencia):** *"El «inspector aéreo» perfecto: Ingenio mexicano enseña a los drones a ver dentro de las fábricas"*. 
   👉 [Leer artículo en línea](https://elheraldodesaltillo.mx/2026/09/21/punto-de-ciencia-76/)
 
